@@ -2,7 +2,7 @@
 
 This project focuses on managing employee salaries in C# using Test-Driven Development (TDD) principles.
 
-# Screens UI
+## Screens UI
 ![Salary Management System](https://user-images.githubusercontent.com/93153234/167426481-3431ad2e-1342-4216-9e3b-378bd8a0014f.png)
 
 ## Features:
